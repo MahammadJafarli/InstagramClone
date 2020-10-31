@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>136281922034-7h56skm021mjcdf42d7j3k4pcgfu2pl5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.136281922034-7h56skm021mjcdf42d7j3k4pcgfu2pl5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA69FwDju7ARP76TP9PoIUhlfmmdy5eJ80</string>
+	<key>GCM_SENDER_ID</key>
+	<string>136281922034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mahammadjafarli.InstagramCloneFB</string>
+	<key>PROJECT_ID</key>
+	<string>concise-voice-230411</string>
+	<key>STORAGE_BUCKET</key>
+	<string>concise-voice-230411.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:136281922034:ios:85886e3fb8c2713a7df36b</string>
+	<key>DATABASE_URL</key>
+	<string>https://concise-voice-230411.firebaseio.com</string>
+</dict>
+</plist>
