@@ -18,6 +18,7 @@
 		C8B62BA8254ADC06004C8F37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8B62BA6254ADC06004C8F37 /* Main.storyboard */; };
 		C8B62BAA254ADC07004C8F37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8B62BA9254ADC07004C8F37 /* Assets.xcassets */; };
 		C8B62BAD254ADC07004C8F37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8B62BAB254ADC07004C8F37 /* LaunchScreen.storyboard */; };
+		C8E9588F25508CF90012AAE7 /* FeedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E9588E25508CF90012AAE7 /* FeedTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		C8B62BA9254ADC07004C8F37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8B62BAC254ADC07004C8F37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C8B62BAE254ADC07004C8F37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8E9588E25508CF90012AAE7 /* FeedTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedTableViewCell.swift; sourceTree = "<group>"; };
 		E72ACB225F5D54BED244DEAA /* Pods_InstagramCloneFB.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstagramCloneFB.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -92,6 +94,7 @@
 				C8B62BA2254ADC06004C8F37 /* SceneDelegate.swift */,
 				C8B62BA4254ADC06004C8F37 /* ViewController.swift */,
 				C87F8F38254DFA6600EE310C /* FeedViewController.swift */,
+				C8E9588E25508CF90012AAE7 /* FeedTableViewCell.swift */,
 				C87F8F3A254DFA7A00EE310C /* UploadViewController.swift */,
 				C87F8F3C254DFA8A00EE310C /* SettingViewController.swift */,
 				C8B62BA6254ADC06004C8F37 /* Main.storyboard */,
@@ -221,6 +224,7 @@
 			files = (
 				C8B62BA5254ADC06004C8F37 /* ViewController.swift in Sources */,
 				C87F8F3B254DFA7A00EE310C /* UploadViewController.swift in Sources */,
+				C8E9588F25508CF90012AAE7 /* FeedTableViewCell.swift in Sources */,
 				C8B62BA1254ADC06004C8F37 /* AppDelegate.swift in Sources */,
 				C87F8F39254DFA6600EE310C /* FeedViewController.swift in Sources */,
 				C8B62BA3254ADC06004C8F37 /* SceneDelegate.swift in Sources */,
